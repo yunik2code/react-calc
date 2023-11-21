@@ -1,0 +1,17 @@
+button{
+    height: 60px;
+    width: 60px;
+    color: white;
+    
+    background-color: rgb(133, 93, 243);
+    border: solid rgb(133, 93, 243);
+    margin: 2px;
+    border-radius: 50%;
+    box-shadow: inset;
+}
+
+button.operator{
+    background-color: rgb(248, 142, 4);
+    border: solid rgb(248, 142, 4);
+    color: black;
+}

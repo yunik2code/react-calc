@@ -1,0 +1,12 @@
+.display{
+    grid-column-start: 1;
+    grid-column-end: 5;
+    height: 40px;
+    width: 260px;
+    font-size: 30px;
+    border: solid black;
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 5px;
+   
+}

@@ -1,0 +1,4 @@
+.button-body{
+    display: grid;
+    grid-template-columns: repeat(4,70px);
+}
